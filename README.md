@@ -6,4 +6,3 @@
 - [wx Number Converter by Mathias](https://github.com/Satalicious/wxDeziToHexOctalBinary)
 - [wx Example by Mathias](https://github.com/Satalicious/wxExampleApp)
 - [wx Exam Preparation by Mathias](https://github.com/Satalicious/ExamPreparation)
-- 
